@@ -1,7 +1,7 @@
 {
-  "name": "weather-cli",
+  "name": "@corderophilosophy/weather-cli",
   "version": "0.1.0",
-  "description": "",
+  "description": "fetch current weather by zip-code from the command line.",
   "main": "index.js",
   "bin": {
     "weather-cli": "./index.js"
@@ -16,5 +16,17 @@
     "chalk": "^2.3.2",
     "minimist": "^1.2.0",
     "node-fetch": "^2.0.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corderophi678/weather-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/corderophi678/weather-cli/issues"
+  },
+  "homepage": "https://github.com/corderophi678/weather-cli#readme"
 }
