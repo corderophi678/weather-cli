@@ -2,10 +2,10 @@
 fetch current weather by zip-code from the command line.
 
 ## under the hood
-uses the [dark sky api](), [google geocode api](), and [chalk]() (for colored output). 
+uses the [dark sky api](https://darksky.net/), [google geocode api](https://developers.google.com/maps/documentation/geocoding/intro), and [chalk](https://npm.im/chalk) (for colored output). 
 
 ## usage
-`npm i -g ` this package
+`npm i -g ` this package `// this package isn't actually on npm yet.`
 
 edit `config.js` to add your own api keys and set temperature and chance of precipitation thresholds.
 
@@ -18,4 +18,5 @@ once you're all set:
 `weather-cli 90210 // fetch weather for zip-code 90210`
 
 ## Todo
+[] publish the thing on ninja potato mashers 😁
 [ ] add ability to search by more than just zipcode.
