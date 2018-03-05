@@ -1,6 +1,6 @@
 {
   "name": "@corderophilosophy/weather-cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "fetch current weather by zip-code from the command line.",
   "main": "index.js",
   "bin": {
