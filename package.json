@@ -1,0 +1,20 @@
+{
+  "name": "weather-cli",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "weather-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dr. Rich Cordero <rich@corderophilosophy.com> (http://corderophilosophy.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.3.2",
+    "minimist": "^1.2.0",
+    "node-fetch": "^2.0.0"
+  }
+}
