@@ -19,4 +19,5 @@ once you're all set:
 
 ## Todo
 [] publish the thing on ninja potato mashers 😁
+
 [ ] add ability to search by more than just zipcode.
